@@ -1,3 +1,3 @@
 # CELESTIAL
 This is my first repository.
-Author-HArshit Srivastava
+Author-Harshit Srivastava
